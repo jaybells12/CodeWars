@@ -1,4 +1,4 @@
 # CodeWars
-My solutions to CodeWars.com katas (challenges)<br>
+My solutions to CodeWars.com katas (KYU rank 4 or higher)<br> 
 Challenges are ranked in difficulty by a numeric KYU<br>
-The ranks are, in ascending order of difficulty: 8 -> 1
+Least difficult, 8 KYU, to most difficult, 1 KYU.
